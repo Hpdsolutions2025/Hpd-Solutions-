@@ -1,2 +1,2 @@
-# hpd-Solutions
+# hpd.Solutions
 Officially  HPD.Solutions website
